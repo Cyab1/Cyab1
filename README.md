@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siyabonga
-- 👀 I’m interested in web develpoment
+- 👀 I’m interested in web develpoment & software development
 - 🌱 I’m currently learning web development & software develpoment
 - 💞️ I’m looking to collaborate on any project relating to web development
 - 📫 How to reach me ndlovusiyabonga181@gmail.com
